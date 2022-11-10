@@ -12,3 +12,6 @@
 
 # Editors
 .vscode/
+
+# Godot bin
+bin/

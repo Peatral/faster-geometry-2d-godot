@@ -2,3 +2,12 @@
 	path = godot-cpp
 	url = https://github.com/godotengine/godot-cpp.git
 	branch = master
+[submodule "project"]
+	path = project
+	url = https://github.com/Peatral/Godot-Map-Generator.git
+[submodule "include/delaunator-cpp"]
+	path = include/delaunator-cpp
+	url = https://github.com/delfrrr/delaunator-cpp.git
+[submodule "include/poisson-disk-sampling"]
+	path = include/poisson-disk-sampling
+	url = https://github.com/thinks/poisson-disk-sampling.git
